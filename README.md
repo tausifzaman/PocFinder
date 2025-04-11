@@ -23,7 +23,7 @@ Find PoC of CVE available in github easily by this tool. Most useful tool for ha
 
 ## One Line Code
 ```
-git clone https://github.com/tausifzaman/PocFinder.git && cd PocFinder && pip install -r requirements.txt && python3 main.py
+git clone https://github.com/tausifzaman/PocFinder.git && cd PocFinder && pip install -r requirements.txt && python3 pocfinder.py
 ```
 ### Install Line Individually 
 ```
@@ -36,5 +36,5 @@ cd PocFinder
 pip install -r requirements.txt
 ```
 ```
-python3 main.py
+python3 pocfinder.py
 ```
