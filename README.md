@@ -2,9 +2,9 @@
 
 # PocFinder
 <p>
- <img src="https://img.shields.io/github/stars/tausifzaman/AdminDirectoryFinder?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/tausifzaman/AdminDirectoryFinder?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/tausifzaman/AdminDirectoryFinder?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/stars/tausifzaman/PocFinder?color=%23DF0067&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/forks/tausifzaman/PocFinder?color=%239999FF&style=for-the-badge"/> &nbsp;
+ <img src="https://img.shields.io/github/license/tausifzaman/PocFinder?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
  
 </p>
 Find PoC of CVE available in github easily by this tool. Most useful tool for hacker and bughunter
